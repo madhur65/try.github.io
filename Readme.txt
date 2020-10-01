@@ -1,3 +1,15 @@
+
+You should use github desktop to upload files
+
+
+
+
+
+
+
+
+
+
 Thanks for downloading this template!
 
 Template Name: BizPage
